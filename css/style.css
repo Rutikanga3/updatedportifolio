@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sum{
+    display: flex;
+    gap: 200px;
+    margin: 20px;
+}
+.exp{
+    display: flex;
+    gap: 190px;
+    margin: 20px;
+}
+.education{
+    display: flex;
+    gap: 200px;
+    margin: 20px;
+    /* margin-left: 9px; */
+}
+.skills{
+    display: flex;
+    gap: 229px;
+    margin: 20px;
+}
+.contact{
+    display: flex;
+    gap: 223px;
+    margin-left: 20px;
+}
+.contact1{
+    display: flex;
+    gap: 100px;
+    /* padding-left: 2px; */
+    
+}
+.internal{
+    display: flex;
+    /* margin: 10px; */
+    gap: 90px;
+    padding: 20px;
+    padding-left: 0px;
+}
+.internal1{
+    display: flex;
+    gap: 90px;
+    padding: 20px;
+    padding-left: 0px;
+}
+.internal2{
+    display: flex;
+    gap:90px;
+    padding: 20px;
+    padding-left: 0px;
+
+}
+h1{
+    /* text-align: center; */
+    margin: 20px;
+}
+#head{
+    /* text-align: center; */
+    margin: 20px;
+    padding-bottom: 30px;
+}
+h4{
+    color: rgb(4, 4, 117);
+}
+h1{
+    color: rgb(4, 4, 117);
+}
+h3{
+    color: rgb(4, 4, 117);
+}
+i{
+    color: rgb(4, 4, 117);  
+}
+body{
+  /* justify-content: center; */
+  margin-left: 300px;
+}
+#para{
+    border-top: 2.3px solid black;
+    padding-top: 15px;
+}
+.internal{
+    border-top: 2px solid rgb(4, 4, 117);
+}
+#text{
+    /* border-top: 3px solid rgb(5, 5, 73); */
+    
+    
+}
+.internal2{
+    border-bottom: 4px solid rgb(5, 5, 73) ;
+    padding-top: 20px;
+}
+#p{
+    border-bottom: 2px solid rgb(5, 5, 73);
+    border-top: 2px solid rgb(5, 5, 73);
+    padding-top: 19px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
